@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "height_map_generator"
+version = "1.0.9"
+name = "Height Map Generator"
+tagline = "Generate AI-powered height maps from images using MiDaS"
+maintainer = "Guillaume Bissieres"
+type = "add-on"
+website = "https://bissieres.gumroad.com/l/BasRelief"
+tracker_url = "https://github.com/GuillaumeBissieres/blender-bas-relief-extensions-compatible/issues"
+tags = ["Render", "Material"]
+blender_version_min = "4.2.0"
+license = [
+"SPDX:GPL-3.0-or-later",
+]
